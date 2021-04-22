@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/MariaCaffe">
+  <Environment name="serverName" type="java.lang.String" value="localhost"/>
+  <Environment name="portNumber" type="java.lang.String" value="1433"/>
+  <Environment name="dbName" type="java.lang.String" value="mariacofe"/>
+  <Environment name="image" type="java.lang.String" value="img/"/>
+</Context>
